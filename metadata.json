@@ -1,0 +1,6 @@
+{
+  "name": "WaveNet 6G",
+  "description": "Offline P2P protocol engine: Acoustic sound modem, streaming QR optical burst, and 6G direct mesh data transfer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WaveNet 6G</string>
+    <string name="tab_acoustic">أصوات الموجات</string>
+    <string name="tab_qr_stream">باركود متدفق</string>
+    <string name="tab_nexus_6g">بروتوكول 6G المباشر</string>
+    <string name="tab_inspector">فاحص الحزم</string>
+    <string name="acoustic_title">المودم الصوتي (Acoustic Wave Modem)</string>
+    <string name="acoustic_desc">نقل واستقبال حزم البيانات والملفات عبر ترددات صوتية مشفرة (FSK/MFSK) عبر مكبر الصوت والميكروفون</string>
+    <string name="qr_title">الناقل الضوئي بالباركود المتدفق (Optical Stream Matrix)</string>
+    <string name="qr_desc">تقطيع الملفات الكبيرة إلى حزم كود QR متدفقة بسرعة فائقة مع استعادة الفقدان وتجميع الحزم</string>
+    <string name="nexus_title">بروتوكول الجيل السادس المباشر (Nexus-6G P2P Engine)</string>
+    <string name="nexus_desc">شبكة نظير-إلى-نظير كاملة بديلة للإنترنت والبلوتوث، اتصال مباشر عالي السرعة بين جهازين بدون راوتر أو سيرفر خارجي</string>
+</resources>
